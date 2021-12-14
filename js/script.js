@@ -4,10 +4,12 @@ jQuery(document).ready(function(){
       });
     
       jQuery('p').click(function(){
-        alert("This is a paragraph")
+          $('#hidden').toggle();
+        // alert("This is a paragraph")
       });
     
       jQuery('img').click(function(){
         alert("This is an image")
       });
+      
 })
