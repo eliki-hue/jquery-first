@@ -2,11 +2,11 @@
 #hidden {
     display: none;
 }
-#show {
+#clicable {
     cursor: pointer;
     color: #0088cc;
     
 }
-/* #show:hover {
+#clicable:hover {
     text-decoration: underline;
-    } */
+    }
