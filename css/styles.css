@@ -10,3 +10,53 @@
 #clicable:hover {
     text-decoration: underline;
     }
+p {
+    display: inline;
+}
+img {
+    width: 600px;
+    height: 700px;
+    size: 100%;
+}
+.button {
+    float: right;
+    margin-left: 750px;
+    font-size: small;
+    align-items:right ;
+}
+/* .button h3 {
+    align-items: center;
+    margin-left: 150px;
+} */
+
+.green-background {
+    background-color: rgb(157, 247, 157);
+  }
+
+  .yellow-background {
+    background-color: rgb(241, 241, 124);
+    text-decoration-color: black;
+  }
+
+  .red-background {
+    background-color: rgb(231, 104, 104);
+  }
+  .blue-background {
+      background-color: blue;
+      color: white;
+      
+  }
+
+  .light-background{
+      background-color: rgb(235, 228, 228);
+      color: rgb(177, 57, 57);
+  }
+  #blue {
+      background-color: rgb(172, 172, 212);
+      padding: 7px;
+      
+  }
+  #light {
+      background-color: lightgray;
+      padding: 7px;
+  }
